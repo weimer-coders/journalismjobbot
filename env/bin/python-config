@@ -1,4 +1,4 @@
-#!/Users/gabriellecalise/Documents/twitterbot/env/bin/python
+#!/Users/gabriellecalise/Documents/twitterbot/journalismjobbot/env/bin/python
 
 import sys
 import getopt
