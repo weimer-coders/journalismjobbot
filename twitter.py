@@ -1,5 +1,6 @@
 import tweepy
 from time import sleep
+import os
 #from secrets import *
 
 #config variables from Heroku
