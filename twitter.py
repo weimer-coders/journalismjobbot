@@ -17,8 +17,8 @@ api = tweepy.API(auth)
 
 for tweet in tweepy.Cursor(api.search,
 
-    geocode='39.8,-95.583068847656,2500km',
-    q='#journojobs OR #journalismjobs OR #mediajobs OR #journojob OR #journalismjobs OR #publicmediajobs OR #pubjobs OR #radiojobs OR "hiring a journalist" OR "new journalism job posting" ').items():
+    #geocode='39.8,-95.583068847656,2500km',
+    q='place:96683cc9126741d1 #journojobs OR #journalismjobs OR #mediajobs OR #journojob OR #journalismjobs OR #publicmediajobs OR #pubjobs OR #radiojobs OR "hiring a journalist" OR "new journalism job posting" OR "hiring an environmental reporter" OR "hiring a science journalist" OR "new reporting internship" ').items():
     try:
         # Add \n escape character to print() to organize tweets
         print('\nTweet by: @' + tweet.user.screen_name)
