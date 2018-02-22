@@ -10,7 +10,7 @@
 <ul>
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-twitter-app">How To Create a Twitter App</a>
 <ul>
-<li>Before creating a Twitter bot, you must first create a Twitter app. This turtorial sets the foundation and explains how credentials work.</li>
+<li>Before creating a Twitter bot, you must first create a Twitter app. This tutorial sets the foundation and explains how credentials work.</li>
 </ul>
 </li>
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library">How To Create a Twitterbot with Python 3 and the Tweepy Library</a>
