@@ -10,12 +10,12 @@
 <ul>
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-twitter-app">How To Create a Twitter App</a>
 <ul>
-<li>this shows how to get the credentials for your Twitter Bot</li>
+<li>This shows how to get the credentials for your Twitter Bot</li>
 </ul>
 </li>
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library">How To Create a Twitterbot with Python 3 and the Tweepy Library</a>
 <ul>
-<li>this shows how to retweet from a hashtag</li>
+<li>This shows how to retweet from a hashtag</li>
 </ul>
 </li>
 </ul>
@@ -38,7 +38,15 @@
 <p> We had a blast making this Twitter bot, and we hope it helps you find your next journalism job! Please reach out with feedback:</p>
 
 <ul>
-  <li></li>
-  <li></li>
+  <li>Gabrielle Calise</li>
+    <ul> 
+      <li><a href="https://github.com/gabriellecalise">Github</a></li>
+      <li><a href="https://twitter.com/gabriellecalise">Twitter</a></li>
+    </ul>
+  <li>Nicole Dan</li>
+    <ul> 
+      <li><a href="https://github.com/nicoledan">Github</a></li>
+      <li><a href="https://twitter.com/NicoleKDan">Twitter</a></li>
+    </ul>
  </ul>
 
