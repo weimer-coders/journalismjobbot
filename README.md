@@ -1,6 +1,6 @@
 ---
 <h1 id="journalism-job-bot">Journalism Job Bot</h1>
-<h2> <a ="https://twitter.com/journojobbot">Check out our bot on Twitter</a></h2>
+<h2> <a href="https://twitter.com/journojobbot">Check out our bot on Twitter</a></h2>
 
 <p>As journalism seniors who will soon be graduating from the University of Florida, the job hunt has been on our minds frequently. We set out to create a Twitter bot that retweets tweets with popular hashtags in order to help journalists like us find job opportunities.</p>
 
