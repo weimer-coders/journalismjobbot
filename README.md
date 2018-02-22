@@ -1,7 +1,7 @@
 ---
 <h1 id="journalism-job-bot">Journalism Job Bot</h1>
 
-<p>As graduating seniors, the job hunt has been on our minds frequently. We set out to create a Twitter bot to help journalists like us find job opportunities by retweeting tweets with popular hashtags and phrases.</p>
+<p>As graduating seniors, the job hunt has been on our minds frequently. We set out to create a Twitter bot that retweets tweets with popular hashtags in order to help journalists like us find job opportunities.</p>
 
 <p> We used Python and Tweepy to make the bot and deployed the final product using Heroku. The following tutorials were helpful in creating a retweet bot.</p>
 
