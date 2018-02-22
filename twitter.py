@@ -27,8 +27,8 @@ for tweet in tweepy.Cursor(api.search,
         tweet.retweet()
         print('Retweeted the tweet')
 
-        #sleep limits the tweeting to occur every __ seconds
-        sleep(14400)
+        #sleep limits the tweeting to occur every __ seconds - let's try 6 hours between tweets
+        sleep(21600)
 
     except tweepy.TweepError as e:
         print(e.reason)
