@@ -1,7 +1,7 @@
 ---
 <h1 id="journalism-job-bot">Journalism Job Bot</h1>
 
-<p>As graduating seniors, the job hunt has been on our minds frequently. We set out to create a Twitter bot that retweets tweets with popular hashtags in order to help journalists like us find job opportunities.</p>
+<p>As journalism seniors who will soon be graduating from the University of Florida, the job hunt has been on our minds frequently. We set out to create a Twitter bot that retweets tweets with popular hashtags in order to help journalists like us find job opportunities.</p>
 
 <p> We used Python and Tweepy to make the bot and deployed the final product using Heroku. The following tutorials were helpful in creating a retweet bot.</p>
 
@@ -10,12 +10,12 @@
 <ul>
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-twitter-app">How To Create a Twitter App</a>
 <ul>
-<li>This shows how to get the credentials for your Twitter Bot</li>
+<li>Before creating a Twitter bot, you must first create a Twitter app. This turtorial sets the foundation and explains how credentials work.</li>
 </ul>
 </li>
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-a-twitterbot-with-python-3-and-the-tweepy-library">How To Create a Twitterbot with Python 3 and the Tweepy Library</a>
 <ul>
-<li>This shows how to retweet from a hashtag</li>
+<li>This shows how to use the Tweepy library and accomplish tasks such as retweeting from a hashtag.</li>
 </ul>
 </li>
 </ul>
@@ -23,7 +23,13 @@
 <h2 id="heroku">Heroku links:</h2>
 <ul>
 <li><a href="https://www.youtube.com/watch?v=DwWPunpypNA">15.8: Heroku Deployment - Twitter Bot Tutorial</a></li>
+  <ul>
+<li>This helped us get started with Heroku.</li>
+</ul>
 <li><a href="https://devcenter.heroku.com/articles/scheduler">Heroku Scheduler</a></li>
+  <ul>
+<li>This helped us set up Heroku Scheduler so that the app could run on a regular basis.</li>
+</ul>
 </ul>
 
 <h2> Problem solving and limitations </h2>
